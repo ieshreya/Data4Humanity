@@ -1,7 +1,7 @@
 # Data4Humanity  
 
 ## About the Project  
-I started **Data4Humanity** to use data for social good. This initiative focuses on public health, humanitarian aid, scientific research, and social impact. Through data visualization and open data insights, the goal is to raise awareness, support decision-making, and drive meaningful change.  
+I started **Data4Humanity** to use data for social good. This initiative focuses on public health, humanitarian aid, scientific research, and social impact.My goal is to raise awareness and drive meaningful change in global health through data visualization and open data insights.  
 
 ## Objective  
 - Provide data-driven insights for the global health community.  
