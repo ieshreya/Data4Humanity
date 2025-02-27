@@ -16,10 +16,9 @@ Data can drive change. **Data4Humanity** aims to:
 - Promote transparency and accountability in global issues.  
 
 ### How It Works  
-1. **Data Collection**: Use open datasets from WHO, UN, and other sources.  
-2. **Data Cleaning & Analysis**: Process data using SQL and Python.  
-3. **Visualization & Storytelling**: Build dashboards and designs in Tableau to present key insights.  
-4. **Community Engagement**: Share insights to encourage collaboration.  
+1. **Data Collection** - Use open datasets from WHO, UN, and other sources.  
+2. **Data Cleaning & Analysis** - Process data using SQL and Python.  
+3. **Visualization & Storytelling** - Build dashboards and designs in Tableau to present key insights.  
 
 ### Key Focus Areas  
 - Public Health & Disease Prevention  
