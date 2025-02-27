@@ -1,0 +1,6 @@
+title: My Jekyll Site
+description: A Jekyll site using Minima theme
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
