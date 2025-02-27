@@ -1,5 +1,5 @@
-title: My Jekyll Site
-description: A Jekyll site using Minima theme
+title: Data4Humanity
+description: Data4Humanity uses data for social good.
 theme: minima
 plugins:
   - jekyll-feed
