@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Data4Humanity"
-  # site-url: 
+  site-url: "https://ieshreya.github.io/Data4Humanity/"
   navbar:
     right:
       - about.qmd
@@ -16,11 +16,11 @@ website:
 format:
   html:
     theme:
-      # - simplex  
-      - litera
+      - simplex  
+      # - litera
       # - brand
       - custom.scss
-    fontsize: small
+    # fontsize: small
     css: styles.css
 
 

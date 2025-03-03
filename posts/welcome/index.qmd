@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Shreya Purohit"
 date: "2025-02-28"
 categories: [news]
 ---
