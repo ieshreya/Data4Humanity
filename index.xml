@@ -10,7 +10,7 @@
 <atom:link href="https://ieshreya.github.io/Data4Humanity/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sun, 02 Mar 2025 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
@@ -30,7 +30,7 @@
   <category>code</category>
   <category>analysis</category>
   <guid>https://ieshreya.github.io/Data4Humanity/posts/post-with-code/</guid>
-  <pubDate>Sun, 02 Mar 2025 18:30:00 GMT</pubDate>
+  <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
   <media:content url="https://ieshreya.github.io/Data4Humanity/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -43,8 +43,7 @@
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://ieshreya.github.io/Data4Humanity/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>This is the first post in a Quarto blog. Welcome! Trying whether the branches are set right. <img src="https://ieshreya.github.io/Data4Humanity/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
@@ -52,7 +51,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://ieshreya.github.io/Data4Humanity/posts/welcome/</guid>
-  <pubDate>Thu, 27 Feb 2025 18:30:00 GMT</pubDate>
+  <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
