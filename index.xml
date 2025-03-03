@@ -12,8 +12,8 @@
 <generator>quarto-1.6.42</generator>
 <lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
+  <title>Another Post</title>
+  <dc:creator>Shreya Purohit</dc:creator>
   <link>https://ieshreya.github.io/Data4Humanity/posts/post-with-code/</link>
   <description><![CDATA[ 
 
@@ -22,6 +22,24 @@
 
 
 <p>This is a post with executable code.</p>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode py code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># importing libraries</span></span>
+<span id="cb1-2"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> pandas <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> pd</span>
+<span id="cb1-3"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> matplotlib <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> plt</span>
+<span id="cb1-4"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> seaborn <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> sns</span></code></pre></div>
 
 
 
@@ -35,7 +53,7 @@
 </item>
 <item>
   <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <dc:creator>Shreya Purohit</dc:creator>
   <link>https://ieshreya.github.io/Data4Humanity/posts/welcome/</link>
   <description><![CDATA[ 
 
