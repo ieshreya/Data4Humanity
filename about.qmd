@@ -1,7 +1,7 @@
 ---
 title: "about"
 about:
-  template: broadside
+  template: solana
   links:
     # - icon: linkedin
     #   text: LinkedIn
