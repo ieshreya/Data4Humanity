@@ -11,6 +11,4 @@ format:
   html:
     theme:
       - simplex  
-      # - litera
-      # - brand
-    css: custom.scss
+      - custom.scss
