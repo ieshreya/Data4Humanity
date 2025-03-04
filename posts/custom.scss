@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: system-ui, -apple-system, "Roboto", "Helvetica Neue", "Noto Sans", "Liberation Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+
+// .navbar-nav,
+// .nav-link,
+// .quarto-title-banner,
+.navbar-title {
+    font-weight: bold !important;
+    color: #000 !important;
+}
+
+.quarto-category {
+    color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+    font-weight: bold !important;
+}
+
+h1 {
+    color: #000 !important;
+    font-weight: bold !important;
+}
+
+.quarto-categories .quarto-category {
+    font-size: .65em !important;
+    text-transform: uppercase !important;
+    border: none !important;
+    opacity: 100% !important;
+}
