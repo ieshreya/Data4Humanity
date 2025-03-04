@@ -9,9 +9,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
-    "text": "About this blog"
+    "text": "I started Data4Humanity to use data for social good. This initiative focuses on public health, humanitarian aid, scientific research, and social impact. My goal is to raise awareness and drive meaningful change in global health through data visualization and open data insights.\n\n\n\n\nProvide data-driven insights for the global health community.\n\nMake complex global issues easier to understand.\n\nSupport organizations in using data for impact.\n\nShare valuable datasets and visualizations openly.\n\n\n\n\nData can drive change. Data4Humanity aims to:\n- Highlight health disparities and social inequalities.\n- Track the effectiveness of humanitarian aid and public health efforts.\n- Promote transparency and accountability in global issues.\n\n\n\n\nData Collection - Use open datasets from WHO, UN, and other sources.\n\nData Cleaning & Analysis - Process data using SQL and Python.\n\nVisualization & Storytelling - Build dashboards and designs in Tableau to present key insights.\n\n\n\n\n\nPublic Health & Disease Prevention\n\nHumanitarian Aid & Crisis Response\n\nScientific Research & Innovation\n\nMental Health & Well-Being\n\nEnvironmental Health & Sustainability\n\nGlobal Health Equity & Policy\n\n\n\n\n\nVisualization – Tableau\n\nData Analysis – Python (Pandas, Matplotlib, Seaborn), SQL\n\nData Sources – WHO, UN, Kaggle, Global Burden of Disease, HDX\n\n\n\n\n\nX: @eyeshreya\n\nBluesky: @shreyaha.bsky.social\nLinkedIn: shreya-purohit\n\n\nThanks for tuning in! Stay tuned for more data stories ahead."
+  },
+  {
+    "objectID": "about.html#data4humanity",
+    "href": "about.html#data4humanity",
+    "title": "about",
+    "section": "",
+    "text": "I started Data4Humanity to use data for social good. This initiative focuses on public health, humanitarian aid, scientific research, and social impact. My goal is to raise awareness and drive meaningful change in global health through data visualization and open data insights.\n\n\n\n\nProvide data-driven insights for the global health community.\n\nMake complex global issues easier to understand.\n\nSupport organizations in using data for impact.\n\nShare valuable datasets and visualizations openly.\n\n\n\n\nData can drive change. Data4Humanity aims to:\n- Highlight health disparities and social inequalities.\n- Track the effectiveness of humanitarian aid and public health efforts.\n- Promote transparency and accountability in global issues.\n\n\n\n\nData Collection - Use open datasets from WHO, UN, and other sources.\n\nData Cleaning & Analysis - Process data using SQL and Python.\n\nVisualization & Storytelling - Build dashboards and designs in Tableau to present key insights.\n\n\n\n\n\nPublic Health & Disease Prevention\n\nHumanitarian Aid & Crisis Response\n\nScientific Research & Innovation\n\nMental Health & Well-Being\n\nEnvironmental Health & Sustainability\n\nGlobal Health Equity & Policy\n\n\n\n\n\nVisualization – Tableau\n\nData Analysis – Python (Pandas, Matplotlib, Seaborn), SQL\n\nData Sources – WHO, UN, Kaggle, Global Burden of Disease, HDX\n\n\n\n\n\nX: @eyeshreya\n\nBluesky: @shreyaha.bsky.social\nLinkedIn: shreya-purohit\n\n\nThanks for tuning in! Stay tuned for more data stories ahead."
   },
   {
     "objectID": "index.html",
