@@ -6,3 +6,11 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+     
+format:
+  html:
+    theme:
+      - simplex  
+      # - litera
+      # - brand
+    css: custom.scss
