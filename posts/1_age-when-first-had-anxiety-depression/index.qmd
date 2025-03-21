@@ -1,0 +1,85 @@
+---
+title: "When Do Mental Health Struggles First Appear"
+author: "Shreya Purohit"
+date: "2025-03-21"
+categories: [mental-health, anxiety, depression]
+image: "age-when-first-had-anxiety-depression.png"
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+<!-- tableau dashboard {embed} -->
+```{=html}
+<div class='tableauPlaceholder' id='viz1742536320433' style='position: relative'>
+  <noscript>
+    <a href='#'><img alt='Dashboard ' src='https://public.tableau.com/static/images/ag/age-when-first-had-anxiety-depression/Dashboard/1_rss.png' style='border: none' /></a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='path' value='views/age-when-first-had-anxiety-depression/Dashboard?:language=en-US&amp;:embed=true&amp;publish=yes&amp;:sid=&amp;:redirect=auth' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/ag/age-when-first-had-anxiety-depression/Dashboard/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1742536320433');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width='800px';
+    vizElement.style.height='627px';
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width='800px';
+    vizElement.style.height='627px';
+  } else {
+    vizElement.style.width='100%';
+    vizElement.style.height='877px';
+  }
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+```
+---
+
+<!-- Post write-up -->
+<!-- # Mental Health Struggles Across Different Age Groups -->
+
+## Introduction
+Mental health issues, particularly anxiety and depression, affect individuals across all ages and demographics. However, certain age groups are more vulnerable depending on their region and economic background. This report provides a comprehensive analysis of mental health struggles based on economic and geographic aspects.
+
+### Data Source
+The data represents the age range at which **individuals first experienced anxiety or depression**, including **all genders and age groups**, and data from the year **2020**.
+
+**Source**: Saloni Dattani, Lucas Rodés-Guirao, Hannah Ritchie and Max Roser (2023)- “Mental Health” Published online at [OurWorldinData.org](https://ourworldindata.org/mental-health).
+
+## Global Mental Health Trends
+On a global scale, **22.21% of respondents in 20-29 age group** reported anxiety or depression at its peak. Young adults are among the most vulnerable to mental health issues. Factors like academic stress, career instability, and financial debt can contribute to this.
+
+## Regional Trends
+-  **Africa**: The highest percentage of mental health struggles was observed in the **20-29 age group**, with 22.26% reporting anxiety or depression.
+- **Asia**: Similar to Africa, 23.40% of individuals of **aged 20-29** reported mental health struggles.
+- **Europe**: Unlike other regions, 24.53% of respondents **aged 40+** reported experiencing anxiety or depression. This may be linked to chronic illness and economic concerns related to retirement.
+
+## Economic Trends
+-  **High-Income Countries**: Mental health issues peaked for **13-19 age group**, with **24.48%** affected. This indicates the growing pressures from modern education and social media influence on teenagers.
+- **Lower-Middle-Income Countries**: 26.29% of individuals **aged 20-29** reported struggling with anxiety or depression. Young adults in these regions are often burdened with economic instability and employment challenges.
+- **Upper-Middle-Income Countries**: The most affected age group was **30-39**, with 18.96% reporting anxiety or depression.
+
+## Implications for Social Good
+These patterns highlight the need for targeted mental health actions such as:  
+
+- Since mental health struggles peak in early adulthood, workplaces and universities should provide **mental health support systems**.
+- A significant number of respondents in lower-income regions reported "not known / don't know", **awareness campaigns** and **proper mental health education** can help these individuals recognize and address their struggles early.
+- **Cultural stigmas** around mental health and pressure to excel in education and careers could be major contributing factors.
+- Governments should use **data-driven decision-making** to **prioritize mental health support** in regions and age groups most in need.
