@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/1_age-when-first-had-anxiety-depression/index.html#introduction",
+    "href": "posts/1_age-when-first-had-anxiety-depression/index.html#introduction",
+    "title": "When Do Mental Health Struggles First Appear",
+    "section": "Introduction",
+    "text": "Introduction\nMental health issues, particularly anxiety and depression, affect individuals across all ages and demographics. However, certain age groups are more vulnerable depending on their region and economic background. This report provides a comprehensive analysis of mental health struggles based on economic and geographic aspects.\n\nData Source\nThe data represents the age range at which individuals first experienced anxiety or depression, including all genders and age groups, and data from the year 2020.\nSource: Saloni Dattani, Lucas Rodés-Guirao, Hannah Ritchie and Max Roser (2023)- “Mental Health” Published online at OurWorldinData.org."
+  },
+  {
+    "objectID": "posts/1_age-when-first-had-anxiety-depression/index.html#global-mental-health-trends",
+    "href": "posts/1_age-when-first-had-anxiety-depression/index.html#global-mental-health-trends",
+    "title": "When Do Mental Health Struggles First Appear",
+    "section": "Global Mental Health Trends",
+    "text": "Global Mental Health Trends\nOn a global scale, 22.21% of respondents in 20-29 age group reported anxiety or depression at its peak. Young adults are among the most vulnerable to mental health issues. Factors like academic stress, career instability, and financial debt can contribute to this."
+  },
+  {
+    "objectID": "posts/1_age-when-first-had-anxiety-depression/index.html#regional-trends",
+    "href": "posts/1_age-when-first-had-anxiety-depression/index.html#regional-trends",
+    "title": "When Do Mental Health Struggles First Appear",
+    "section": "Regional Trends",
+    "text": "Regional Trends\n\nAfrica: The highest percentage of mental health struggles was observed in the 20-29 age group, with 22.26% reporting anxiety or depression.\nAsia: Similar to Africa, 23.40% of individuals of aged 20-29 reported mental health struggles.\nEurope: Unlike other regions, 24.53% of respondents aged 40+ reported experiencing anxiety or depression. This may be linked to chronic illness and economic concerns related to retirement."
+  },
+  {
+    "objectID": "posts/1_age-when-first-had-anxiety-depression/index.html#economic-trends",
+    "href": "posts/1_age-when-first-had-anxiety-depression/index.html#economic-trends",
+    "title": "When Do Mental Health Struggles First Appear",
+    "section": "Economic Trends",
+    "text": "Economic Trends\n\nHigh-Income Countries: Mental health issues peaked for 13-19 age group, with 24.48% affected. This indicates the growing pressures from modern education and social media influence on teenagers.\nLower-Middle-Income Countries: 26.29% of individuals aged 20-29 reported struggling with anxiety or depression. Young adults in these regions are often burdened with economic instability and employment challenges.\nUpper-Middle-Income Countries: The most affected age group was 30-39, with 18.96% reporting anxiety or depression."
+  },
+  {
+    "objectID": "posts/1_age-when-first-had-anxiety-depression/index.html#implications-for-social-good",
+    "href": "posts/1_age-when-first-had-anxiety-depression/index.html#implications-for-social-good",
+    "title": "When Do Mental Health Struggles First Appear",
+    "section": "Implications for Social Good",
+    "text": "Implications for Social Good\nThese patterns highlight the need for targeted mental health actions such as:\n\nSince mental health struggles peak in early adulthood, workplaces and universities should provide mental health support systems.\nA significant number of respondents in lower-income regions reported “not known / don’t know”, awareness campaigns and proper mental health education can help these individuals recognize and address their struggles early.\nCultural stigmas around mental health and pressure to excel in education and careers could be major contributing factors.\nGovernments should use data-driven decision-making to prioritize mental health support in regions and age groups most in need."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data4Humanity",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome! Trying whether the branches are set right. \nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "When Do Mental Health Struggles First Appear\n\n\n\n\n\n\nmental-health\n\n\nanxiety\n\n\ndepression\n\n\n\n\n\n\n\n\n\nMar 21, 2025\n\n\nShreya Purohit\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -19,19 +54,5 @@
     "title": "about",
     "section": "",
     "text": "I started Data4Humanity to use data for social good. This initiative focuses on public health, humanitarian aid, scientific research, and social impact. My goal is to raise awareness and drive meaningful change in global health through data visualization and open data insights.\n\n\n\n\nProvide data-driven insights for the global health community.\n\nMake complex global issues easier to understand.\n\nSupport organizations in using data for impact.\n\nShare valuable datasets and visualizations openly.\n\n\n\n\nData can drive change. Data4Humanity aims to:\n- Highlight health disparities and social inequalities.\n- Track the effectiveness of humanitarian aid and public health efforts.\n- Promote transparency and accountability in global issues.\n\n\n\n\nData Collection - Use open datasets from WHO, UN, and other sources.\n\nData Cleaning & Analysis - Process data using SQL and Python.\n\nVisualization & Storytelling - Build dashboards and designs in Tableau to present key insights.\n\n\n\n\n\nPublic Health & Disease Prevention\n\nHumanitarian Aid & Crisis Response\n\nScientific Research & Innovation\n\nMental Health & Well-Being\n\nEnvironmental Health & Sustainability\n\nGlobal Health Equity & Policy\n\n\n\n\n\nVisualization – Tableau\n\nData Analysis – Python (Pandas, Matplotlib, Seaborn), SQL\n\nData Sources – WHO, UN, Kaggle, Global Burden of Disease, HDX\n\n\n\n\n\nX: @eyeshreya\n\nBluesky: @shreyaha.bsky.social\nLinkedIn: shreya-purohit\n\n\nThanks for tuning in! Stay tuned for more data stories ahead."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data4Humanity",
-    "section": "",
-    "text": "Another Post\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\nShreya Purohit\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nShreya Purohit\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Another Post",
-    "section": "",
-    "text": "This is a post with executable code.\n# importing libraries\nimport pandas as pd\nimport matplotlib as plt\nimport seaborn as sns"
   }
 ]
